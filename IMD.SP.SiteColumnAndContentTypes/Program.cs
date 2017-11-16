@@ -9,6 +9,7 @@ namespace IMD.SP.SiteColumnAndContentTypes
 {
     class Program
     {
+        //New code is added to Venkata branch for testing
         // public static string filename = @"D:\Venkata\DMS\SiteColumnsContentTypes\SiteColumnsContentTypes\InputData\IMDData.xml";         
         public static XmlDocument xmlDoc = new XmlDocument();
         static void Main(string[] args)
